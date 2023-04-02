@@ -1,0 +1,87 @@
+import { images } from "../../constants";
+
+export const galleryImages1 = [
+  images.pic60,
+  images.pic1,
+  images.pic2,
+  images.pic25,
+  images.pic18,
+  images.pic4,
+  images.pic6,
+  images.pic13,
+  images.pic8,
+  images.pic21,
+  images.pic11,
+  images.pic12,
+];
+export const galleryImages2 = [
+  images.pic7,
+  images.pic14,
+  images.pic15,
+  images.pic16,
+  images.pic17,
+  images.pic3,
+  images.pic19,
+  images.pic20,
+  images.pic9,
+  images.pic22,
+  images.pic23,
+  images.pic24,
+];
+export const galleryImages3 = [
+  images.pic5,
+  images.pic26,
+  images.pic27,
+  images.pic28,
+  images.pic29,
+  images.pic30,
+  images.pic31,
+  images.pic32,
+  images.pic33,
+  images.pic34,
+  images.pic35,
+  images.pic36,
+];
+export const galleryImages4 = [
+  images.pic37,
+  images.pic38,
+  images.pic39,
+  images.pic40,
+  images.pic41,
+  images.pic42,
+  images.pic43,
+  images.pic44,
+  images.pic45,
+  images.pic46,
+  images.pic47,
+  images.pic48,
+];
+
+export const galleryImages5 = [
+  images.pic49,
+  images.pic50,
+  images.pic51,
+  images.pic52,
+  images.pic53,
+  images.pic54,
+  images.pic55,
+  images.pic56,
+  images.pic57,
+  images.pic58,
+  images.pic59,
+];
+
+export const galleryImages6 = [
+  images.pic61,
+  images.pic62,
+  images.pic63,
+  images.pic64,
+  images.pic65,
+  images.pic66,
+  images.pic67,
+  images.pic68,
+  images.pic69,
+  images.pic70,
+  images.pic71,
+  images.pic72,
+];
